@@ -41,7 +41,7 @@ public class RankingLortuDABTest {
 		
 		List<Registered> obtained = dao.rankingLortu();
 		assertTrue(obtained.size()==0);
-		//assertEquals(null, obtained);
+		//assertEquals(null, obtained)
 		
 	}
 	
