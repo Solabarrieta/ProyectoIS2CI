@@ -105,24 +105,6 @@ public class GertaerakSortuDABTest {
 		
 	}
 	
-	/*
-	 * La base de datos permite fechas nulas. Comparar un null pointer exception, porque se guarda bien en la bd cuando la fecha es nula.
-	 
-	@Test
-	public void eventDateNullTest() {
-		System.out.println("Test event date null");
-		String description = "Athletic-Real";
-		Date eventDate = null;
-		String sport = "Futbol";
-		try {
-			dao.gertaerakSortu(description, eventDate, sport);
-			//fail("Event Date null");
-		}catch(Exception e) {
-			e.printStackTrace();
-			assertEquals(e.getClass(), java.lang.NullPointerException.class);
-		}
-		
-	}*/
 	
 	@Test
 	public void sportNullTest() {
