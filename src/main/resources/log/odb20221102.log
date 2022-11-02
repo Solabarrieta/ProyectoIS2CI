@@ -1,0 +1,705 @@
+------------------------------------------------------------------------------------------------------------------------
+
+[2022-11-02 12:11:40 #1 store] 
+Database '/home/oier/git/ProyectoIS2/src/main/resources/bets.temp' has been recovered (tr. 53-56)
+
+[2022-11-02 12:11:40 #2 store] 
+Database '/home/oier/git/ProyectoIS2/src/main/resources/bets.temp' is opened by 7083@pc-oier
+
+[2022-11-02 12:11:40 #3 type] 
+Type domain.Team is not enhanced.
+
+[2022-11-02 12:11:40 #4 type] 
+Type domain.Event is not enhanced.
+
+[2022-11-02 12:11:40 #5 type] 
+Type domain.User is not enhanced.
+
+[2022-11-02 12:11:40 #6 type] 
+Type domain.Registered is not enhanced.
+
+[2022-11-02 12:11:40 #7 type] 
+Type domain.Sport is not enhanced.
+
+[2022-11-02 12:11:40 #8 type] 
+Type domain.Question is not enhanced.
+
+[2022-11-02 12:11:40 #9 type] 
+Type domain.Elkarrizketa is not enhanced.
+
+[2022-11-02 12:11:40 #10 type] 
+Type domain.Message is not enhanced.
+
+[2022-11-02 12:11:40 #11 type] 
+Type domain.KirolEstatistikak is not enhanced.
+
+[2022-11-02 12:11:40 #12 type] 
+Type domain.Jarraitzailea is not enhanced.
+
+[2022-11-02 12:11:40 #13 type] 
+Type domain.ApustuAnitza is not enhanced.
+
+[2022-11-02 12:11:40 #14 type] 
+Type domain.Transaction is not enhanced.
+
+[2022-11-02 12:11:40 #15 type] 
+Type domain.Quote is not enhanced.
+
+[2022-11-02 12:11:40 #16 type] 
+Type domain.Apustua is not enhanced.
+
+[2022-11-02 12:11:40 #17 type] 
+Type domain.Admin is not enhanced.
+
+------------------------------------------------------------------------------------------------------------------------
+
+[2022-11-02 12:13:13 #1 store] 
+Database '/home/oier/git/ProyectoIS2/src/main/resources/bets.temp' is opened by 7465@pc-oier
+
+[2022-11-02 12:13:13 #2 type] 
+Type domain.Team is not enhanced.
+
+[2022-11-02 12:13:13 #3 type] 
+Type domain.Event is not enhanced.
+
+[2022-11-02 12:13:13 #4 type] 
+Type domain.User is not enhanced.
+
+[2022-11-02 12:13:13 #5 type] 
+Type domain.Registered is not enhanced.
+
+[2022-11-02 12:13:13 #6 type] 
+Type domain.Sport is not enhanced.
+
+[2022-11-02 12:13:13 #7 type] 
+Type domain.Question is not enhanced.
+
+[2022-11-02 12:13:13 #8 type] 
+Type domain.Elkarrizketa is not enhanced.
+
+[2022-11-02 12:13:13 #9 type] 
+Type domain.Message is not enhanced.
+
+[2022-11-02 12:13:13 #10 type] 
+Type domain.KirolEstatistikak is not enhanced.
+
+[2022-11-02 12:13:13 #11 type] 
+Type domain.Jarraitzailea is not enhanced.
+
+[2022-11-02 12:13:13 #12 type] 
+Type domain.ApustuAnitza is not enhanced.
+
+[2022-11-02 12:13:13 #13 type] 
+Type domain.Transaction is not enhanced.
+
+[2022-11-02 12:13:13 #14 type] 
+Type domain.Quote is not enhanced.
+
+[2022-11-02 12:13:13 #15 type] 
+Type domain.Apustua is not enhanced.
+
+[2022-11-02 12:13:13 #16 type] 
+Type domain.Admin is not enhanced.
+
+------------------------------------------------------------------------------------------------------------------------
+
+[2022-11-02 12:13:41 #1 store] 
+Database '/home/oier/git/ProyectoIS2/src/main/resources/bets.temp' has been recovered (tr. 58-58)
+
+[2022-11-02 12:13:41 #2 store] 
+Database '/home/oier/git/ProyectoIS2/src/main/resources/bets.temp' is opened by 7541@pc-oier
+
+[2022-11-02 12:13:41 #3 type] 
+Type domain.Team is not enhanced.
+
+[2022-11-02 12:13:41 #4 type] 
+Type domain.Event is not enhanced.
+
+[2022-11-02 12:13:41 #5 type] 
+Type domain.User is not enhanced.
+
+[2022-11-02 12:13:41 #6 type] 
+Type domain.Registered is not enhanced.
+
+[2022-11-02 12:13:41 #7 type] 
+Type domain.Sport is not enhanced.
+
+[2022-11-02 12:13:41 #8 type] 
+Type domain.Question is not enhanced.
+
+[2022-11-02 12:13:41 #9 type] 
+Type domain.Elkarrizketa is not enhanced.
+
+[2022-11-02 12:13:41 #10 type] 
+Type domain.Message is not enhanced.
+
+[2022-11-02 12:13:41 #11 type] 
+Type domain.KirolEstatistikak is not enhanced.
+
+[2022-11-02 12:13:41 #12 type] 
+Type domain.Jarraitzailea is not enhanced.
+
+[2022-11-02 12:13:41 #13 type] 
+Type domain.ApustuAnitza is not enhanced.
+
+[2022-11-02 12:13:41 #14 type] 
+Type domain.Transaction is not enhanced.
+
+[2022-11-02 12:13:41 #15 type] 
+Type domain.Quote is not enhanced.
+
+[2022-11-02 12:13:41 #16 type] 
+Type domain.Apustua is not enhanced.
+
+[2022-11-02 12:13:41 #17 type] 
+Type domain.Admin is not enhanced.
+
+------------------------------------------------------------------------------------------------------------------------
+
+[2022-11-02 12:19:40 #1 store] 
+Database '/home/oier/git/ProyectoIS2/src/main/resources/bets.temp' is opened by 8218@pc-oier
+
+[2022-11-02 12:19:40 #2 type] 
+Type domain.Team is not enhanced.
+
+[2022-11-02 12:19:40 #3 type] 
+Type domain.Event is not enhanced.
+
+[2022-11-02 12:19:40 #4 type] 
+Type domain.User is not enhanced.
+
+[2022-11-02 12:19:40 #5 type] 
+Type domain.Registered is not enhanced.
+
+[2022-11-02 12:19:40 #6 type] 
+Type domain.Sport is not enhanced.
+
+[2022-11-02 12:19:40 #7 type] 
+Type domain.Question is not enhanced.
+
+[2022-11-02 12:19:40 #8 type] 
+Type domain.Elkarrizketa is not enhanced.
+
+[2022-11-02 12:19:40 #9 type] 
+Type domain.Message is not enhanced.
+
+[2022-11-02 12:19:40 #10 type] 
+Type domain.KirolEstatistikak is not enhanced.
+
+[2022-11-02 12:19:40 #11 type] 
+Type domain.Jarraitzailea is not enhanced.
+
+[2022-11-02 12:19:40 #12 type] 
+Type domain.ApustuAnitza is not enhanced.
+
+[2022-11-02 12:19:40 #13 type] 
+Type domain.Transaction is not enhanced.
+
+[2022-11-02 12:19:40 #14 type] 
+Type domain.Quote is not enhanced.
+
+[2022-11-02 12:19:40 #15 type] 
+Type domain.Apustua is not enhanced.
+
+[2022-11-02 12:19:40 #16 type] 
+Type domain.Admin is not enhanced.
+
+------------------------------------------------------------------------------------------------------------------------
+
+[2022-11-02 12:22:42 #1 store] 
+Database '/home/oier/git/ProyectoIS2/src/main/resources/bets.temp' is opened by 9071@pc-oier
+
+[2022-11-02 12:22:42 #2 type] 
+Type domain.Team is not enhanced.
+
+[2022-11-02 12:22:42 #3 type] 
+Type domain.Event is not enhanced.
+
+[2022-11-02 12:22:42 #4 type] 
+Type domain.User is not enhanced.
+
+[2022-11-02 12:22:42 #5 type] 
+Type domain.Registered is not enhanced.
+
+[2022-11-02 12:22:42 #6 type] 
+Type domain.Sport is not enhanced.
+
+[2022-11-02 12:22:42 #7 type] 
+Type domain.Question is not enhanced.
+
+[2022-11-02 12:22:42 #8 type] 
+Type domain.Elkarrizketa is not enhanced.
+
+[2022-11-02 12:22:42 #9 type] 
+Type domain.Message is not enhanced.
+
+[2022-11-02 12:22:42 #10 type] 
+Type domain.KirolEstatistikak is not enhanced.
+
+[2022-11-02 12:22:42 #11 type] 
+Type domain.Jarraitzailea is not enhanced.
+
+[2022-11-02 12:22:42 #12 type] 
+Type domain.ApustuAnitza is not enhanced.
+
+[2022-11-02 12:22:42 #13 type] 
+Type domain.Transaction is not enhanced.
+
+[2022-11-02 12:22:42 #14 type] 
+Type domain.Quote is not enhanced.
+
+[2022-11-02 12:22:42 #15 type] 
+Type domain.Apustua is not enhanced.
+
+[2022-11-02 12:22:42 #16 type] 
+Type domain.Admin is not enhanced.
+
+------------------------------------------------------------------------------------------------------------------------
+
+[2022-11-02 12:22:56 #1 store] 
+Database '/home/oier/git/ProyectoIS2/src/main/resources/bets.temp' has been recovered (tr. 59-59)
+
+[2022-11-02 12:22:56 #2 store] 
+Database '/home/oier/git/ProyectoIS2/src/main/resources/bets.temp' is opened by 9183@pc-oier
+
+[2022-11-02 12:22:56 #3 type] 
+Type domain.Team is not enhanced.
+
+[2022-11-02 12:22:56 #4 type] 
+Type domain.Event is not enhanced.
+
+[2022-11-02 12:22:56 #5 type] 
+Type domain.User is not enhanced.
+
+[2022-11-02 12:22:56 #6 type] 
+Type domain.Registered is not enhanced.
+
+[2022-11-02 12:22:56 #7 type] 
+Type domain.Sport is not enhanced.
+
+[2022-11-02 12:22:56 #8 type] 
+Type domain.Question is not enhanced.
+
+[2022-11-02 12:22:56 #9 type] 
+Type domain.Elkarrizketa is not enhanced.
+
+[2022-11-02 12:22:56 #10 type] 
+Type domain.Message is not enhanced.
+
+[2022-11-02 12:22:56 #11 type] 
+Type domain.KirolEstatistikak is not enhanced.
+
+[2022-11-02 12:22:56 #12 type] 
+Type domain.Jarraitzailea is not enhanced.
+
+[2022-11-02 12:22:56 #13 type] 
+Type domain.ApustuAnitza is not enhanced.
+
+[2022-11-02 12:22:56 #14 type] 
+Type domain.Transaction is not enhanced.
+
+[2022-11-02 12:22:56 #15 type] 
+Type domain.Quote is not enhanced.
+
+[2022-11-02 12:22:56 #16 type] 
+Type domain.Apustua is not enhanced.
+
+[2022-11-02 12:22:56 #17 type] 
+Type domain.Admin is not enhanced.
+
+------------------------------------------------------------------------------------------------------------------------
+
+[2022-11-02 12:22:59 #1 store] 
+Database '/home/oier/git/ProyectoIS2/src/main/resources/bets.temp' has been recovered (tr. 61-62)
+
+[2022-11-02 12:22:59 #2 store] 
+Database '/home/oier/git/ProyectoIS2/src/main/resources/bets.temp' is opened by 9219@pc-oier
+
+[2022-11-02 12:22:59 #3 type] 
+Type domain.Team is not enhanced.
+
+[2022-11-02 12:22:59 #4 type] 
+Type domain.Event is not enhanced.
+
+[2022-11-02 12:22:59 #5 type] 
+Type domain.User is not enhanced.
+
+[2022-11-02 12:22:59 #6 type] 
+Type domain.Registered is not enhanced.
+
+[2022-11-02 12:22:59 #7 type] 
+Type domain.Sport is not enhanced.
+
+[2022-11-02 12:22:59 #8 type] 
+Type domain.Question is not enhanced.
+
+[2022-11-02 12:22:59 #9 type] 
+Type domain.Elkarrizketa is not enhanced.
+
+[2022-11-02 12:22:59 #10 type] 
+Type domain.Message is not enhanced.
+
+[2022-11-02 12:22:59 #11 type] 
+Type domain.KirolEstatistikak is not enhanced.
+
+[2022-11-02 12:22:59 #12 type] 
+Type domain.Jarraitzailea is not enhanced.
+
+[2022-11-02 12:22:59 #13 type] 
+Type domain.ApustuAnitza is not enhanced.
+
+[2022-11-02 12:22:59 #14 type] 
+Type domain.Transaction is not enhanced.
+
+[2022-11-02 12:22:59 #15 type] 
+Type domain.Quote is not enhanced.
+
+[2022-11-02 12:22:59 #16 type] 
+Type domain.Apustua is not enhanced.
+
+[2022-11-02 12:22:59 #17 type] 
+Type domain.Admin is not enhanced.
+
+------------------------------------------------------------------------------------------------------------------------
+
+[2022-11-02 12:24:21 #1 store] 
+Database '/home/oier/git/ProyectoIS2/src/main/resources/bets.temp' has been recovered (tr. 64-65)
+
+[2022-11-02 12:24:21 #2 store] 
+Database '/home/oier/git/ProyectoIS2/src/main/resources/bets.temp' is opened by 9352@pc-oier
+
+[2022-11-02 12:24:21 #3 type] 
+Type domain.Team is not enhanced.
+
+[2022-11-02 12:24:21 #4 type] 
+Type domain.Event is not enhanced.
+
+[2022-11-02 12:24:21 #5 type] 
+Type domain.User is not enhanced.
+
+[2022-11-02 12:24:21 #6 type] 
+Type domain.Registered is not enhanced.
+
+[2022-11-02 12:24:21 #7 type] 
+Type domain.Sport is not enhanced.
+
+[2022-11-02 12:24:21 #8 type] 
+Type domain.Question is not enhanced.
+
+[2022-11-02 12:24:21 #9 type] 
+Type domain.Elkarrizketa is not enhanced.
+
+[2022-11-02 12:24:21 #10 type] 
+Type domain.Message is not enhanced.
+
+[2022-11-02 12:24:21 #11 type] 
+Type domain.KirolEstatistikak is not enhanced.
+
+[2022-11-02 12:24:21 #12 type] 
+Type domain.Jarraitzailea is not enhanced.
+
+[2022-11-02 12:24:21 #13 type] 
+Type domain.ApustuAnitza is not enhanced.
+
+[2022-11-02 12:24:21 #14 type] 
+Type domain.Transaction is not enhanced.
+
+[2022-11-02 12:24:21 #15 type] 
+Type domain.Quote is not enhanced.
+
+[2022-11-02 12:24:21 #16 type] 
+Type domain.Apustua is not enhanced.
+
+[2022-11-02 12:24:21 #17 type] 
+Type domain.Admin is not enhanced.
+
+------------------------------------------------------------------------------------------------------------------------
+
+[2022-11-02 12:24:28 #1 store] 
+Database '/home/oier/git/ProyectoIS2/src/main/resources/bets.temp' has been recovered (tr. 66-69)
+
+[2022-11-02 12:24:28 #2 store] 
+Database '/home/oier/git/ProyectoIS2/src/main/resources/bets.temp' is opened by 9390@pc-oier
+
+[2022-11-02 12:24:28 #3 type] 
+Type domain.Team is not enhanced.
+
+[2022-11-02 12:24:28 #4 type] 
+Type domain.Event is not enhanced.
+
+[2022-11-02 12:24:28 #5 type] 
+Type domain.User is not enhanced.
+
+[2022-11-02 12:24:28 #6 type] 
+Type domain.Registered is not enhanced.
+
+[2022-11-02 12:24:28 #7 type] 
+Type domain.Sport is not enhanced.
+
+[2022-11-02 12:24:28 #8 type] 
+Type domain.Question is not enhanced.
+
+[2022-11-02 12:24:28 #9 type] 
+Type domain.Elkarrizketa is not enhanced.
+
+[2022-11-02 12:24:28 #10 type] 
+Type domain.Message is not enhanced.
+
+[2022-11-02 12:24:28 #11 type] 
+Type domain.KirolEstatistikak is not enhanced.
+
+[2022-11-02 12:24:28 #12 type] 
+Type domain.Jarraitzailea is not enhanced.
+
+[2022-11-02 12:24:28 #13 type] 
+Type domain.ApustuAnitza is not enhanced.
+
+[2022-11-02 12:24:28 #14 type] 
+Type domain.Transaction is not enhanced.
+
+[2022-11-02 12:24:28 #15 type] 
+Type domain.Quote is not enhanced.
+
+[2022-11-02 12:24:28 #16 type] 
+Type domain.Apustua is not enhanced.
+
+[2022-11-02 12:24:28 #17 type] 
+Type domain.Admin is not enhanced.
+
+------------------------------------------------------------------------------------------------------------------------
+
+[2022-11-02 12:45:41 #1 store] 
+Database '/home/oier/git/ProyectoIS2/src/main/resources/bets.temp' has been recovered (tr. 71-72)
+
+[2022-11-02 12:45:41 #2 store] 
+Database '/home/oier/git/ProyectoIS2/src/main/resources/bets.temp' is opened by 13152@pc-oier
+
+[2022-11-02 12:45:41 #3 type] 
+Type domain.Team is not enhanced.
+
+[2022-11-02 12:45:41 #4 type] 
+Type domain.Event is not enhanced.
+
+[2022-11-02 12:45:41 #5 type] 
+Type domain.User is not enhanced.
+
+[2022-11-02 12:45:41 #6 type] 
+Type domain.Registered is not enhanced.
+
+[2022-11-02 12:45:41 #7 type] 
+Type domain.Sport is not enhanced.
+
+[2022-11-02 12:45:41 #8 type] 
+Type domain.Question is not enhanced.
+
+[2022-11-02 12:45:41 #9 type] 
+Type domain.Elkarrizketa is not enhanced.
+
+[2022-11-02 12:45:41 #10 type] 
+Type domain.Message is not enhanced.
+
+[2022-11-02 12:45:41 #11 type] 
+Type domain.KirolEstatistikak is not enhanced.
+
+[2022-11-02 12:45:41 #12 type] 
+Type domain.Jarraitzailea is not enhanced.
+
+[2022-11-02 12:45:41 #13 type] 
+Type domain.ApustuAnitza is not enhanced.
+
+[2022-11-02 12:45:41 #14 type] 
+Type domain.Transaction is not enhanced.
+
+[2022-11-02 12:45:41 #15 type] 
+Type domain.Quote is not enhanced.
+
+[2022-11-02 12:45:41 #16 type] 
+Type domain.Apustua is not enhanced.
+
+[2022-11-02 12:45:41 #17 type] 
+Type domain.Admin is not enhanced.
+
+------------------------------------------------------------------------------------------------------------------------
+
+[2022-11-02 12:47:36 #1 store] 
+Database '/home/oier/git/ProyectoIS2/src/main/resources/bets.temp' has been recovered (tr. 74-75)
+
+[2022-11-02 12:47:36 #2 store] 
+Database '/home/oier/git/ProyectoIS2/src/main/resources/bets.temp' is opened by 13319@pc-oier
+
+[2022-11-02 12:47:36 #3 type] 
+Type domain.Team is not enhanced.
+
+[2022-11-02 12:47:36 #4 type] 
+Type domain.Event is not enhanced.
+
+[2022-11-02 12:47:36 #5 type] 
+Type domain.User is not enhanced.
+
+[2022-11-02 12:47:36 #6 type] 
+Type domain.Registered is not enhanced.
+
+[2022-11-02 12:47:36 #7 type] 
+Type domain.Sport is not enhanced.
+
+[2022-11-02 12:47:36 #8 type] 
+Type domain.Question is not enhanced.
+
+[2022-11-02 12:47:36 #9 type] 
+Type domain.Elkarrizketa is not enhanced.
+
+[2022-11-02 12:47:36 #10 type] 
+Type domain.Message is not enhanced.
+
+[2022-11-02 12:47:36 #11 type] 
+Type domain.KirolEstatistikak is not enhanced.
+
+[2022-11-02 12:47:36 #12 type] 
+Type domain.Jarraitzailea is not enhanced.
+
+[2022-11-02 12:47:36 #13 type] 
+Type domain.ApustuAnitza is not enhanced.
+
+[2022-11-02 12:47:36 #14 type] 
+Type domain.Transaction is not enhanced.
+
+[2022-11-02 12:47:36 #15 type] 
+Type domain.Quote is not enhanced.
+
+[2022-11-02 12:47:36 #16 type] 
+Type domain.Apustua is not enhanced.
+
+[2022-11-02 12:47:36 #17 type] 
+Type domain.Admin is not enhanced.
+
+------------------------------------------------------------------------------------------------------------------------
+
+[2022-11-02 12:48:41 #1 store] 
+Database '/home/oier/git/ProyectoIS2/src/main/resources/bets.temp' is opened by 13454@pc-oier
+
+[2022-11-02 12:48:41 #2 type.registry] 
+New type domain.Team
+
+[2022-11-02 12:48:41 #3 type] 
+Type domain.Team is not enhanced.
+
+[2022-11-02 12:48:41 #4 type.registry] 
+New type domain.Event
+
+[2022-11-02 12:48:41 #5 type.registry] 
+New type java.util.Vector<domain.Event>
+
+[2022-11-02 12:48:41 #6 type.registry] 
+New type domain.User
+
+[2022-11-02 12:48:41 #7 type.registry] 
+New type domain.Registered
+
+[2022-11-02 12:48:41 #8 type.registry] 
+New type java.util.Vector<domain.Registered>
+
+[2022-11-02 12:48:41 #9 type] 
+Type domain.Event is not enhanced.
+
+[2022-11-02 12:48:41 #10 type.registry] 
+New type domain.Sport
+
+[2022-11-02 12:48:41 #11 type.registry] 
+New type domain.Question
+
+[2022-11-02 12:48:41 #12 type.registry] 
+New type java.util.Vector<domain.Question>
+
+[2022-11-02 12:48:41 #13 type] 
+Type domain.User is not enhanced.
+
+[2022-11-02 12:48:41 #14 type.registry] 
+New type domain.Elkarrizketa
+
+[2022-11-02 12:48:41 #15 type.registry] 
+New type java.util.Vector<domain.Elkarrizketa>
+
+[2022-11-02 12:48:41 #16 type.registry] 
+New type domain.Message
+
+[2022-11-02 12:48:41 #17 type.registry] 
+New type java.util.Vector<domain.Message>
+
+[2022-11-02 12:48:41 #18 type] 
+Type domain.Registered is not enhanced.
+
+[2022-11-02 12:48:41 #19 type.registry] 
+New type domain.KirolEstatistikak
+
+[2022-11-02 12:48:41 #20 type.registry] 
+New type java.util.Vector<domain.KirolEstatistikak>
+
+[2022-11-02 12:48:41 #21 type.registry] 
+New type domain.Jarraitzailea
+
+[2022-11-02 12:48:41 #22 type.registry] 
+New type java.util.Vector<domain.Jarraitzailea>
+
+[2022-11-02 12:48:41 #23 type.registry] 
+New type domain.ApustuAnitza
+
+[2022-11-02 12:48:41 #24 type.registry] 
+New type java.util.Vector<domain.ApustuAnitza>
+
+[2022-11-02 12:48:41 #25 type.registry] 
+New type domain.Transaction
+
+[2022-11-02 12:48:41 #26 type.registry] 
+New type java.util.Vector<domain.Transaction>
+
+[2022-11-02 12:48:41 #27 type] 
+Type domain.Sport is not enhanced.
+
+[2022-11-02 12:48:41 #28 type] 
+Type domain.Question is not enhanced.
+
+[2022-11-02 12:48:41 #29 type.registry] 
+New type domain.Quote
+
+[2022-11-02 12:48:41 #30 type.registry] 
+New type java.util.Vector<domain.Quote>
+
+[2022-11-02 12:48:41 #31 type] 
+Type domain.Elkarrizketa is not enhanced.
+
+[2022-11-02 12:48:41 #32 type] 
+Type domain.Message is not enhanced.
+
+[2022-11-02 12:48:41 #33 type] 
+Type domain.KirolEstatistikak is not enhanced.
+
+[2022-11-02 12:48:41 #34 type] 
+Type domain.Jarraitzailea is not enhanced.
+
+[2022-11-02 12:48:41 #35 type] 
+Type domain.ApustuAnitza is not enhanced.
+
+[2022-11-02 12:48:41 #36 type.registry] 
+New type domain.Apustua
+
+[2022-11-02 12:48:41 #37 type.registry] 
+New type java.util.Vector<domain.Apustua>
+
+[2022-11-02 12:48:41 #38 type] 
+Type domain.Transaction is not enhanced.
+
+[2022-11-02 12:48:41 #39 type] 
+Type domain.Quote is not enhanced.
+
+[2022-11-02 12:48:41 #40 type] 
+Type domain.Apustua is not enhanced.
+
+[2022-11-02 12:48:41 #41 type.registry] 
+New type domain.Admin
+
+[2022-11-02 12:48:41 #42 type] 
+Type domain.Admin is not enhanced.
+
+[2022-11-02 12:48:41 #43 type.registry] 
+New type java.util.Vector<java.lang.Object>
+

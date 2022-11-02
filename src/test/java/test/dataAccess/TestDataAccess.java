@@ -11,8 +11,11 @@ import javax.persistence.Persistence;
 import javax.persistence.TypedQuery;
 
 import configuration.ConfigXML;
+import domain.Admin;
 import domain.Event;
 import domain.Question;
+import domain.Registered;
+import domain.User;
 
 public class TestDataAccess {
 	protected  EntityManager  db;
@@ -22,33 +25,33 @@ public class TestDataAccess {
 
 
 	public TestDataAccess()  {
-		
+
 		System.out.println("Creating TestDataAccess instance");
 
 		open();
-		
+
 	}
 
-	
+
 	public void open(){
-		
+
 		System.out.println("Opening TestDataAccess instance ");
 
 		String fileName=c.getDbFilename();
-		
+
 		if (c.isDatabaseLocal()) {
-			  emf = Persistence.createEntityManagerFactory("objectdb:"+fileName);
-			  db = emf.createEntityManager();
+			emf = Persistence.createEntityManagerFactory("objectdb:"+fileName);
+			db = emf.createEntityManager();
 		} else {
 			Map<String, String> properties = new HashMap<String, String>();
-			  properties.put("javax.persistence.jdbc.user", c.getUser());
-			  properties.put("javax.persistence.jdbc.password", c.getPassword());
+			properties.put("javax.persistence.jdbc.user", c.getUser());
+			properties.put("javax.persistence.jdbc.password", c.getPassword());
 
-			  emf = Persistence.createEntityManagerFactory("objectdb://"+c.getDatabaseNode()+":"+c.getDatabasePort()+"/"+fileName, properties);
+			emf = Persistence.createEntityManagerFactory("objectdb://"+c.getDatabaseNode()+":"+c.getDatabasePort()+"/"+fileName, properties);
 
-			  db = emf.createEntityManager();
-    	   }
-		
+			db = emf.createEntityManager();
+		}
+
 	}
 	public void close(){
 		db.close();
@@ -71,9 +74,29 @@ public class TestDataAccess {
 			System.out.println(">> DataAccessTest: Event removed: " + description);
 			return false;
 		}
-    }
-		
-		/*public Event addEventWithQuestion(String desc, Date d, String question, float qty) {
+	}
+
+	public int deleteUsers() {
+		db.getTransaction().begin();
+		int deletedCount = db.createQuery("DELETE FROM Registered").executeUpdate();
+		db.getTransaction().commit();
+		return deletedCount;
+	}
+	
+	public void addRegistered() {
+		db.getTransaction().begin();
+		Registered reg1 =new Registered("registered", "123", 1234);
+		Registered reg2 = new Registered("andrea", "123", 1111);
+		Registered reg3 = new Registered("markel", "123", 1111);
+		Registered reg4 = new Registered("mikel", "123", 1111);
+		db.persist(reg1);
+		db.persist(reg2);
+		db.persist(reg3);
+		db.persist(reg4);
+		db.getTransaction().commit();
+	}
+
+	/*public Event addEventWithQuestion(String desc, Date d, String question, float qty) {
 			System.out.println(">> DataAccessTest: addEvent");
 			Event ev=null;
 				db.getTransaction().begin();
@@ -88,14 +111,14 @@ public class TestDataAccess {
 				}
 				return ev;
 	    }*/
-		public boolean existQuestion(Event ev,Question q) {
-			System.out.println(">> DataAccessTest: existQuestion");
-			Event e = db.find(Event.class, ev.getEventNumber());
-			if (e!=null) {
-				return e.DoesQuestionExists(q.getQuestion());
-			} else 
+	public boolean existQuestion(Event ev,Question q) {
+		System.out.println(">> DataAccessTest: existQuestion");
+		Event e = db.find(Event.class, ev.getEventNumber());
+		if (e!=null) {
+			return e.DoesQuestionExists(q.getQuestion());
+		} else 
 			return false;
-			
-		}
+
+	}
 }
 

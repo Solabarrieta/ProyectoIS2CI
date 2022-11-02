@@ -21,53 +21,5 @@ public class GertaerakSortuDAWTest {
 	@InjectMocks
 	BLFacade sut;
 	
-	//static DataAccess sut=new DataAccess();
-
-	/*@Test
-	public void test1() {
-		String description = "Athletic-Real";
-		
-		SimpleDateFormat sdf = new SimpleDateFormat("dd/MM/yyyy");
-		Date eventDate=null;
-		try {
-			eventDate = sdf.parse("20/10/2022");
-		} catch (ParseException e) {
-			// TODO Auto-generated catch block
-			e.printStackTrace();
-		}
-		String sport = "Patata";
-		
-		boolean obtenido = sut.gertaerakSortu(description, eventDate, sport);
-		boolean esperado = false; 
-		
-		assertEquals(esperado, obtenido);
-	}*/
-	
-	@Test
-	public void test2() {
-		String description = "Athletic-Real";
-		SimpleDateFormat sdf = new SimpleDateFormat("dd/MM/yyyy");
-		Date eventDate=null;
-		try {
-			eventDate = sdf.parse("20/10/2022");
-		} catch (ParseException e) {
-			// TODO Auto-generated catch block
-			e.printStackTrace();
-		}
-		String sport = "Patata";
-
-		try {
-			Mockito.doReturn(false)
-			 .when(dao)
-			 .gertaerakSortu(Mockito.anyString(), Mockito.any(Date.class), Mockito.anyString());
-			
-			boolean obtenido = sut.gertaerakSortu(description, eventDate, sport);
-			boolean esperado = false;
-			assertEquals(esperado, obtenido);
-			
-		}catch (Exception e){
-			e.printStackTrace();
-		}
-	}
 
 }
