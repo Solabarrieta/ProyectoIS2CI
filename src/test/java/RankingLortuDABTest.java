@@ -30,32 +30,6 @@ public class RankingLortuDABTest {
 	
 	TestDataAccess testDa = new TestDataAccess();
 	
-	//static DataAccess sut=new DataAccess();
-
-	/*@Test
-	public void test1() {
-		List<Registered> resultado = sut.rankingLortu();
-		
-		assertTrue(resultado.size() != 0);
-	}*/
-	
-	/*@Test
-	public void test2() {
-
-		try {
-			Mockito.doReturn(true)
-			 .when(dao)
-			 .rankingLortu();
-			
-			List<Registered> obtenido = sut.rankingLortu();
-			List<Registered> esperado = null;
-			assertEquals(esperado, obtenido);
-			System.out.println(obtenido);
-			
-		}catch (Exception e){
-			e.printStackTrace();
-		}
-	}*/
 	
 	@Test
 	public void registeredNullTest() {
