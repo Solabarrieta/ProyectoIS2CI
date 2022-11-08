@@ -1,26 +1,14 @@
 import static org.junit.Assert.assertEquals;
 import static org.junit.Assert.assertTrue;
-import static org.junit.Assert.fail;
 
-import java.text.ParseException;
-import java.text.SimpleDateFormat;
-import java.util.ArrayList;
-import java.util.Date;
 import java.util.List;
 
 import javax.persistence.EntityManager;
-import javax.persistence.TypedQuery;
 
 import org.junit.Test;
-import org.mockito.InjectMocks;
-import org.mockito.Mock;
-import org.mockito.Mockito;
 
-import businessLogic.BLFacade;
 import dataAccess.DataAccess;
-import domain.Admin;
 import domain.Registered;
-import domain.User;
 import test.dataAccess.TestDataAccess;
 
 public class RankingLortuDABTest {

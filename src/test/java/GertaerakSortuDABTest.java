@@ -96,10 +96,9 @@ public class GertaerakSortuDABTest {
 		}
 		String sport = "Futbol";
 		try {
-			dao.gertaerakSortu(description, eventDate, sport);
+			boolean b = dao.gertaerakSortu(description, eventDate, sport);
 			fail("Description null");
 		}catch(Exception e) {
-			e.printStackTrace();
 			assertEquals(e.getClass(), java.lang.NullPointerException.class);
 		}
 		
@@ -123,7 +122,6 @@ public class GertaerakSortuDABTest {
 			dao.gertaerakSortu(description, eventDate, sport);
 			fail("Sport null");
 		}catch(Exception e) {
-			e.printStackTrace();
 			assertEquals(e.getClass(), java.lang.IllegalArgumentException.class);
 		}
 		
@@ -144,6 +142,7 @@ public class GertaerakSortuDABTest {
 		String sport = "Futbol";
 		testDa.open();
 		boolean obtained = dao.gertaerakSortu(description, eventDate, sport);
+		System.out.println(obtained);
 		assertTrue(obtained);
 		testDa.removeEvent(description);
 		testDa.close();

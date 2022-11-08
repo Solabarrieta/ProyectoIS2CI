@@ -111,7 +111,7 @@ public class GertaerakSortuMockitoTest{
 		}
 		String sport = "Futbol";
 		
-		Mockito.doReturn(false).when(dao).gertaerakSortu(Mockito.any(String.class), Mockito.any(Date.class), Mockito.any(String.class));
+		//Mockito.doReturn(false).when(dao).gertaerakSortu(Mockito.any(String.class), Mockito.any(Date.class), Mockito.any(String.class));
 		
 		try {
 			Boolean obtained = sut.gertaerakSortu(description, eventDate, sport);
@@ -145,7 +145,7 @@ public class GertaerakSortuMockitoTest{
 		}
 		String sport = null;
 		
-		Mockito.doReturn(false).when(dao).gertaerakSortu(Mockito.any(String.class), Mockito.any(Date.class), Mockito.any(String.class));
+		//Mockito.doReturn(false).when(dao).gertaerakSortu(Mockito.any(String.class), Mockito.any(Date.class), Mockito.any(String.class));
 		
 		try {
 			Boolean obtained = sut.gertaerakSortu(description, eventDate, sport);
@@ -177,7 +177,7 @@ public class GertaerakSortuMockitoTest{
 			e.printStackTrace();
 		}
 		String sport = "Futbol";
-		Mockito.doReturn(false).when(dao).gertaerakSortu(Mockito.any(String.class), Mockito.any(Date.class), Mockito.any(String.class));
+		//Mockito.doReturn(false).when(dao).gertaerakSortu(Mockito.any(String.class), Mockito.any(Date.class), Mockito.any(String.class));
 		
 		try {
 			Boolean obtained = sut.gertaerakSortu(description, eventDate, sport);

@@ -14,7 +14,7 @@ public class GertaerakSortuDAWTest {
 	
 	TestDataAccess testDa = new TestDataAccess();
 	
-	@Test
+	/*@Test
 	public void descriptionExistTest() {
 		String description = "Athletic-Barcelona";
 		String sport = "Futbol";
@@ -85,7 +85,7 @@ public class GertaerakSortuDAWTest {
 		assertTrue(obtained);
 		testDa.removeEvent(description);
 		testDa.close();
-	}
+	}*/
 	
 	
 
