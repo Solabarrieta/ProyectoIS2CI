@@ -1,0 +1,53 @@
+------------------------------------------------------------------------------------------------------------------------
+
+[2022-11-08 10:50:52 #1 store] 
+Database '/home/oier/git/ProyectoIS2/src/main/resources/bets.temp' has been recovered (tr. 23-24)
+
+[2022-11-08 10:50:52 #2 store] 
+Database '/home/oier/git/ProyectoIS2/src/main/resources/bets.temp' is opened by 4178@pc-oier
+
+[2022-11-08 10:50:52 #3 type] 
+Type domain.Team is not enhanced.
+
+[2022-11-08 10:50:52 #4 type] 
+Type domain.Event is not enhanced.
+
+[2022-11-08 10:50:52 #5 type] 
+Type domain.User is not enhanced.
+
+[2022-11-08 10:50:52 #6 type] 
+Type domain.Registered is not enhanced.
+
+[2022-11-08 10:50:52 #7 type] 
+Type domain.Sport is not enhanced.
+
+[2022-11-08 10:50:52 #8 type] 
+Type domain.Question is not enhanced.
+
+[2022-11-08 10:50:52 #9 type] 
+Type domain.Elkarrizketa is not enhanced.
+
+[2022-11-08 10:50:52 #10 type] 
+Type domain.Message is not enhanced.
+
+[2022-11-08 10:50:52 #11 type] 
+Type domain.KirolEstatistikak is not enhanced.
+
+[2022-11-08 10:50:52 #12 type] 
+Type domain.Jarraitzailea is not enhanced.
+
+[2022-11-08 10:50:52 #13 type] 
+Type domain.ApustuAnitza is not enhanced.
+
+[2022-11-08 10:50:52 #14 type] 
+Type domain.Transaction is not enhanced.
+
+[2022-11-08 10:50:52 #15 type] 
+Type domain.Quote is not enhanced.
+
+[2022-11-08 10:50:52 #16 type] 
+Type domain.Apustua is not enhanced.
+
+[2022-11-08 10:50:52 #17 type] 
+Type domain.Admin is not enhanced.
+

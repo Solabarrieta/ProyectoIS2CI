@@ -20,7 +20,7 @@ import dataAccess.DataAccess;
 import exceptions.EventFinished;
 
 @RunWith(MockitoJUnitRunner.class)
-public class GertaerakSortuMockito{
+public class GertaerakSortuMockitoTest{
 	
      DataAccess dao=Mockito.mock(DataAccess.class);
      

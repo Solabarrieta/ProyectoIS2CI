@@ -23,7 +23,7 @@ import domain.Registered;
 import exceptions.EventFinished;
 
 @RunWith(MockitoJUnitRunner.class)
-public class RankingLortuMockito{
+public class RankingLortuMockitoTest{
 	
      DataAccess dao=Mockito.mock(DataAccess.class);
      
