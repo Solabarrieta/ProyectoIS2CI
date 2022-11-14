@@ -149,6 +149,7 @@ public class GertaerakSortuMockitoTest{
 		
 		try {
 			Boolean obtained = sut.gertaerakSortu(description, eventDate, sport);
+			System.out.println(obtained + " Test sport null");
 			assertFalse(obtained);
 			ArgumentCaptor<String> descriptionCaptor = ArgumentCaptor.forClass(String.class);
 			ArgumentCaptor<Date> dateCaptor = ArgumentCaptor.forClass(Date.class);
@@ -176,11 +177,11 @@ public class GertaerakSortuMockitoTest{
 			// TODO Auto-generated catch block
 			e.printStackTrace();
 		}
-		String sport = "Futbol";
-		//Mockito.doReturn(false).when(dao).gertaerakSortu(Mockito.any(String.class), Mockito.any(Date.class), Mockito.any(String.class));
-		
+		String sport = "Futbol";		
 		try {
 			Boolean obtained = sut.gertaerakSortu(description, eventDate, sport);
+			System.out.println(obtained+" Test event Date less than today");
+			assertFalse(obtained);
 			ArgumentCaptor<String> descriptionCaptor = ArgumentCaptor.forClass(String.class);
 			ArgumentCaptor<Date> dateCaptor = ArgumentCaptor.forClass(Date.class);
 			ArgumentCaptor<String> sportCaptor = ArgumentCaptor.forClass(String.class);

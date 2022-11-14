@@ -27,6 +27,7 @@ import exceptions.EventFinished;
 import exceptions.EventNotFinished;
 import exceptions.QuestionAlreadyExist;
 import exceptions.QuoteAlreadyExist;
+import iterator.ExtendedIterator;
 
 /**
  * Interface that specifies the business logic.
@@ -55,6 +56,8 @@ public interface BLFacade  {
 	 * @return collection of events
 	 */
 	@WebMethod public Vector<Event> getEvents(Date date);
+	
+    @WebMethod public ExtendedIterator getEventsIterator(Date date);
 	
 	/**
 	 * This method retrieves from the database the dates a month for which there are events

@@ -29,6 +29,7 @@ import exceptions.EventFinished;
 import exceptions.EventNotFinished;
 import exceptions.QuestionAlreadyExist;
 import exceptions.QuoteAlreadyExist;
+import iterator.ExtendedIterator;
 
 /**
  * It implements the business logic as a web service.
@@ -108,6 +109,13 @@ public class BLFacadeImplementation  implements BLFacade {
 		dbManager.close();
 		return events;
 	}
+    
+    @WebMethod
+    public ExtendedIterator<Event> getEventsIterator(Date date) {
+    	ExtendedIterator<Event> iter= new ExtendedIterator<Event> (this.getEvents(date));    
+    	System.out.println(iter.hasNext());
+		return iter;
+    }
 
     
 	/**
