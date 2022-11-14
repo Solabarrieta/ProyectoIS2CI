@@ -8,6 +8,7 @@ package gui;
 import javax.swing.*;
 
 import domain.Event;
+import domain.User;
 import businessLogic.BLFacade;
 
 import java.awt.Color;
@@ -101,7 +102,7 @@ public class MainGUI extends JFrame {
 		return jContentPane;
 	}
 
-
+	
 	/**
 	 * This method initializes boton1
 	 * 

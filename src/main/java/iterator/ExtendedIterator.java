@@ -14,17 +14,21 @@ public class ExtendedIterator<Object> implements IExtendedIterator{
 	}
 	@Override
 	public Object previous() {
-		pos--;
 		Event ev = events.get(pos);
+		pos--;
 		return (Object) ev;
 	}
 
 	@Override
 	public boolean hasPrevious() {
-		int aux = pos-1;
-		Event ev = events.get(aux);
+		try {
+			int aux = pos-1;
+			Event ev = events.get(aux);
+			return ev!=null;
+		}catch(Exception e) {
+			return false;
+		}
 		
-		return ev != null;
 	}
 
 	@Override
